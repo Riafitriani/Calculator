@@ -1,0 +1,9 @@
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe.config
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.pdb
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Form1.resources
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Properties.Resources.resources
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.GenerateResource.cache
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.exe
+D:\Ria\CalculatorWindowsFormsApp1\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.pdb
